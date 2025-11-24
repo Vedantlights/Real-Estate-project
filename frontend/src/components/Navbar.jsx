@@ -34,7 +34,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="navbar-logo">
             <div className="logo-container">
-              <img src="/logo.png" alt="India Propertys" className="logo-image" />
+              <img src="/logo.jpg" alt="India Propertys" className="logo-image" />
             </div>
           </Link>
 

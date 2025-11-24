@@ -26,7 +26,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 7rem;
+  height: 6.5rem;
   position: relative;
 }
 
@@ -35,12 +35,6 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  transition: transform 0.3s ease;
-  z-index: 10;
-}
-
-.navbar-logo:hover {
-  transform: translateY(-2px);
 }
 
 .logo-container {
@@ -49,15 +43,12 @@
 }
 
 .logo-image {
-  height: 110px;
+  height: 100px;
   width: auto;
   object-fit: contain;
   transition: transform 0.3s ease;
 }
 
-.navbar-logo:hover .logo-image {
-  transform: scale(1.05);
-}
 
 /* Desktop Navigation Links */
 .nav-links-desktop {

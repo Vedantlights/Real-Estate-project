@@ -43,7 +43,11 @@
 }
 
 .logo-image {
+<<<<<<< Updated upstream
   height: 100px;
+=======
+  height: 70px;
+>>>>>>> Stashed changes
   width: auto;
   object-fit: contain;
   transition: transform 0.3s ease;
